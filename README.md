@@ -31,10 +31,10 @@
     yarn install
 ~~~
 
-3. This project is been run in **http://localhost:8080/**
-
-- To been execute:
+3. To been execute:
 
 ~~~bash
 yarn dev
 ~~~
+
+- This project is been run in **http://localhost:8080/**
