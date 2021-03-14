@@ -21,20 +21,20 @@
 
 - First clone this repository:
 
-~~~cmd
+~~~bash
  git clone https://github.com/Sembenevi/desafio-task-react.git
 ~~~
 
 2. **You need install dependecies been use in this project**
 
-~~~cmd
+~~~bash
     yarn install
 ~~~
 
 3. This project is been run in **http://localhost:8080/**
 
-4. To been execute:
+- To been execute:
 
-~~~cmd
+~~~bash
 yarn dev
 ~~~
