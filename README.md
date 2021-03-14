@@ -21,13 +21,13 @@
 
 - First clone this repository:
 
-~~~javascript
+~~~cmd
  git clone https://github.com/Sembenevi/desafio-task-react.git
 ~~~
 
 2. **You need install dependecies been use in this project**
 
-~~~javascript
+~~~cmd
     yarn install
 ~~~
 
@@ -35,6 +35,6 @@
 
 4. To been execute:
 
-~~~javascript
+~~~cmd
 yarn dev
 ~~~
